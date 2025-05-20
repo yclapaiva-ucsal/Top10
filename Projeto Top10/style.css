@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: 'XMen';
+  font-family: 'Xmen';
   background-color: black;
   color: yellow;
   text-align: center;
@@ -150,9 +150,13 @@ header {
 
 .container-info {
     height: 100%;
-    margin-left: 20px;
+    margin-left: 18px;
     width: 100%;
     align-items: center;
+    font-size: 14px;
 
+}
+.descr-x{
+    font-size: 12px;
 }
 
